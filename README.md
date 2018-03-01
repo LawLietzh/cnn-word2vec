@@ -1,5 +1,5 @@
-# Impl-Textcnn-Title-Classification-Tensorflow
-This is a Implementation of TextCNN which come from https://github.com/dennybritz/cnn-text-classification-tf.
+#cnn + word2vec Textcnn-Title-Classification-Tensorflow
+This is a Implementation of TextCNN which come from https://github.com/LawLietzh/cnn-word2vec
   
 This code is used for classifying News' Titles from Sina News.
 
